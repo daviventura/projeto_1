@@ -1,0 +1,43 @@
+.botao1 {
+    margin-bottom: 10px;
+}
+
+.card {
+    height: 95vh;
+    margin: 1vh;
+    padding: 2vh;
+    border-radius: 1%;
+}
+
+.card_image {
+    padding: 20px;
+}
+
+.col1 {
+    padding: 20px;
+}
+
+.button_group {
+    margin-top: 20px;
+}
+
+.card1 {
+    height: 46vh;
+}
+
+.card2 {
+    height: 30vh;
+}
+
+.linha1 {
+    padding: 1vh;
+}
+
+.linha2 {
+    padding: 1vh;
+}
+
+
+.titulo1 {
+    margin-top: 2vh;
+}
