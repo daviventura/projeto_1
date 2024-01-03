@@ -92,4 +92,4 @@ Werkzeug==3.0.1
 widgetsnbextension==4.0.9
 wsproto==1.2.0
 zipp==3.17.0
-gunicorn projeto_1:app
+gunicorn
